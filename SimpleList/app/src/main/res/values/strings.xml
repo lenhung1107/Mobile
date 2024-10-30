@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="even_number_from_1_to_n">Even number from 1 to n</string>
+    <string name="odd_number_from_1_to_n">Odd number from 1 to n</string>
+    <string name="perfect_square_numbers_from_0_to_n">Perfect Square Numbers from 0 to n</string>
+    <string name="result">Result</string>
+    <string name="show">Show</string>
+    <string name="enter_n">Enter n</string>
+</resources>
